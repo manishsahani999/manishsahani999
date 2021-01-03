@@ -1,4 +1,4 @@
-## This is my older github, this account will be deleted after Nov, 2020. please see/follow my new account [@kalkayan](https://github.com/kalkayan).
+## This is my older github, This has been achvived since Sept. please see/follow my new account [@kalkayan](https://github.com/kalkayan).
 
 <!--
 **manishsahani999/manishsahani999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
